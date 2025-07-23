@@ -1,0 +1,23 @@
+{
+  "name": "xri-dates",
+  "version": "1.0.0",
+  "description": "A demo repo",
+  "keywords": [
+    "date"
+  ],
+  "homepage": "https://github.com/ncgntdrk/xri-dates#readme",
+  "bugs": {
+    "url": "https://github.com/ncgntdrk/xri-dates/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ncgntdrk/xri-dates.git"
+  },
+  "license": "MIT",
+  "author": "Incognito Dark",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
